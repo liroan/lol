@@ -1,1 +1,1 @@
-console.log("Other text");
+let a = 5;
